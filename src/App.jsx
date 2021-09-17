@@ -1,12 +1,12 @@
 import React from 'react';
-import Errorloading from './components/Errorloading';
+import Menu from './components/Menu';
 
 function App(){
     
     return(
         <main>
             <section className='container'>
-                <Errorloading />
+                <Menu />
             </section>
         </main>
     )

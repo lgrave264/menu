@@ -369,6 +369,10 @@ ul {
   color: #cc8800;
 }
 
+#header {
+  text-align: center;
+}
+
 #price {
   float: right;
 }
@@ -387,4 +391,5 @@ ul {
   height: 9rem;
   display: inline-table;
   margin-left: 1rem;
+  margin-bottom: 1rem;
 }/*# sourceMappingURL=index.css.map */
